@@ -1,0 +1,3 @@
+﻿  Keylogger.cpp
+E:\$_School\3_1\1.AnToan BaoMat Thongtin\Project\Keylogger-ver-2\Keylogger\Keylogger.cpp(82,18): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  Keylogger.vcxproj -> E:\$_School\3_1\1.AnToan BaoMat Thongtin\Project\Keylogger-ver-2\Debug\Keylogger.exe
